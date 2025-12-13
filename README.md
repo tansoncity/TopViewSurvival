@@ -8,3 +8,7 @@ Top view survival game
 Your tasks:
 - Do something
 - Do another thing
+
+Hydra:
+![](Assets/Sprites/Boss/Hydra.png)
+
